@@ -1,4 +1,5 @@
-<?php get_header(); ?>
+<!-- This is an index main file
+ --><?php get_header(); ?>
 <div class="jumbotron gradient-bg margin-neg-20">
         <div class="container text-center">
             <h1>Welcome To Our Custom Site</h1>
